@@ -4,6 +4,7 @@ Generate synthetic Entra ID and M365 logs for an AiTM -> BEC scenario.
 All data is fictional. Field names follow Microsoft Sentinel table schemas
 (SigninLogs, AuditLogs, OfficeActivity), simplified.
 """
+
 import json
 import random
 import uuid

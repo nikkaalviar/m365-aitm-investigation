@@ -1,0 +1,2914 @@
+[
+  {
+    "TimeGenerated": "2026-11-02T13:05:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "d519c4c9-cd2c-4505-97c8-03a69151b1d8",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "82350ed8-0435-4512-9108-0da174ca0917"
+  },
+  {
+    "TimeGenerated": "2026-11-02T13:08:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "ee1af319-d9ec-4a59-b4a6-6283cb417ca0",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "328f22d2-1e93-4952-af9a-5e810e692d21"
+  },
+  {
+    "TimeGenerated": "2026-11-02T13:28:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "289a8f6d-4632-41c7-a127-0f8e4ec9954b",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "83b8793f-ff60-4ae3-b762-f4d317459703"
+  },
+  {
+    "TimeGenerated": "2026-11-02T13:31:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "1efbfeb6-fd78-4f46-96d3-99efc72e3002",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "0e25eb3c-4714-4af0-8d4a-39d46af89f98"
+  },
+  {
+    "TimeGenerated": "2026-11-02T13:48:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "5627a688-1e6c-46fa-9c46-c16554760d45",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "8a0923b2-43af-4c36-83a3-cc653ab5ede8"
+  },
+  {
+    "TimeGenerated": "2026-11-02T13:54:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "fce98ab4-3518-4a32-96d9-a6a6f22d700a",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "373fc557-fb15-49d4-a60e-f8903cb42fa0"
+  },
+  {
+    "TimeGenerated": "2026-11-02T14:05:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "d519c4c9-cd2c-4505-97c8-03a69151b1d8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "a7c6d2f8-f377-4de1-9bfc-92812287d81b"
+  },
+  {
+    "TimeGenerated": "2026-11-02T14:05:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "176918a0-5802-414b-a2a3-589332612909",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "e53dbfdb-c5fb-4140-b300-8cbf6fb9b338"
+  },
+  {
+    "TimeGenerated": "2026-11-02T14:08:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "ee1af319-d9ec-4a59-b4a6-6283cb417ca0",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "fdd1ce77-ac75-4161-b88a-c5e0d83c4741"
+  },
+  {
+    "TimeGenerated": "2026-11-02T14:21:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "a0365b26-d4a5-46b5-983b-887452bedc2b",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "6ea36410-6911-48b2-807f-6ed6b3e112cd"
+  },
+  {
+    "TimeGenerated": "2026-11-02T14:28:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "289a8f6d-4632-41c7-a127-0f8e4ec9954b",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "cf6ac41a-b346-4b0f-a5c0-75bf1d307670"
+  },
+  {
+    "TimeGenerated": "2026-11-02T14:31:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "1efbfeb6-fd78-4f46-96d3-99efc72e3002",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "a2333695-db59-47d1-94df-9c5b596f3e0d"
+  },
+  {
+    "TimeGenerated": "2026-11-02T14:48:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "5627a688-1e6c-46fa-9c46-c16554760d45",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "60f04267-f2bc-483f-b65f-5391a6fdde24"
+  },
+  {
+    "TimeGenerated": "2026-11-02T14:54:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "fce98ab4-3518-4a32-96d9-a6a6f22d700a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "577e6b8f-85ec-40e2-89eb-fd53e12ede90"
+  },
+  {
+    "TimeGenerated": "2026-11-02T15:05:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "d519c4c9-cd2c-4505-97c8-03a69151b1d8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "23f8de8c-f223-42be-9f07-6a3763ec603d"
+  },
+  {
+    "TimeGenerated": "2026-11-02T15:05:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "176918a0-5802-414b-a2a3-589332612909",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "df35dd89-e417-4484-8c84-df3fef27d4c1"
+  },
+  {
+    "TimeGenerated": "2026-11-02T15:08:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "ee1af319-d9ec-4a59-b4a6-6283cb417ca0",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "bcff60e7-aec0-42d4-a6fc-4a4e40f664b5"
+  },
+  {
+    "TimeGenerated": "2026-11-02T15:21:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "a0365b26-d4a5-46b5-983b-887452bedc2b",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "7634f0b0-6c43-4556-9a92-3872f8674660"
+  },
+  {
+    "TimeGenerated": "2026-11-02T15:28:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "289a8f6d-4632-41c7-a127-0f8e4ec9954b",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "2f568e56-08c8-4e74-969d-ab303c23b074"
+  },
+  {
+    "TimeGenerated": "2026-11-02T15:31:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "1efbfeb6-fd78-4f46-96d3-99efc72e3002",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "f43a6fbe-19c0-4d36-beeb-81b9170a77e1"
+  },
+  {
+    "TimeGenerated": "2026-11-02T15:48:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "5627a688-1e6c-46fa-9c46-c16554760d45",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "00b56f54-53f6-43a5-a23e-02fe168155f0"
+  },
+  {
+    "TimeGenerated": "2026-11-02T15:54:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "fce98ab4-3518-4a32-96d9-a6a6f22d700a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "e8c750da-0b2d-4147-bb2d-60184bbd94a5"
+  },
+  {
+    "TimeGenerated": "2026-11-02T16:05:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "176918a0-5802-414b-a2a3-589332612909",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "456f0771-113e-4e57-8c1e-033fb424547c"
+  },
+  {
+    "TimeGenerated": "2026-11-02T16:08:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "ee1af319-d9ec-4a59-b4a6-6283cb417ca0",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "d4588419-100b-422a-865c-5c3fa05fb0fb"
+  },
+  {
+    "TimeGenerated": "2026-11-02T16:21:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "a0365b26-d4a5-46b5-983b-887452bedc2b",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "1a2883ee-2c69-45fd-804b-ea05f8644b82"
+  },
+  {
+    "TimeGenerated": "2026-11-02T16:28:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "289a8f6d-4632-41c7-a127-0f8e4ec9954b",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "cda13bea-25f3-46e9-ba15-9af070961132"
+  },
+  {
+    "TimeGenerated": "2026-11-02T16:31:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "1efbfeb6-fd78-4f46-96d3-99efc72e3002",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "79fbe647-e6ff-4ac5-9ff6-606e55eba5c3"
+  },
+  {
+    "TimeGenerated": "2026-11-02T16:48:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "5627a688-1e6c-46fa-9c46-c16554760d45",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "fb06399a-4b4c-49c2-a6a5-ea716f8fbe3b"
+  },
+  {
+    "TimeGenerated": "2026-11-02T17:08:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "ee1af319-d9ec-4a59-b4a6-6283cb417ca0",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "0a365492-4282-4bdb-8355-6a2af8e367b9"
+  },
+  {
+    "TimeGenerated": "2026-11-02T17:28:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "289a8f6d-4632-41c7-a127-0f8e4ec9954b",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "0b18c330-2158-4d03-863e-bd4143cde76b"
+  },
+  {
+    "TimeGenerated": "2026-11-02T17:31:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "1efbfeb6-fd78-4f46-96d3-99efc72e3002",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "98e178f7-aee8-473b-997f-2caf0f438203"
+  },
+  {
+    "TimeGenerated": "2026-11-02T17:48:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "5627a688-1e6c-46fa-9c46-c16554760d45",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "6fb7c99d-6dcb-4abf-83e3-ed0aa9a1b9d6"
+  },
+  {
+    "TimeGenerated": "2026-11-02T18:31:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "1efbfeb6-fd78-4f46-96d3-99efc72e3002",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "a5545b4b-1844-43c3-926b-312eced55557"
+  },
+  {
+    "TimeGenerated": "2026-11-02T18:48:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "5627a688-1e6c-46fa-9c46-c16554760d45",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "7c832a27-86fa-4cc8-8b7f-ddb0abd98220"
+  },
+  {
+    "TimeGenerated": "2026-11-03T13:00:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "244c5713-9519-419c-acb1-d706fab7fa8d",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "8f60d248-ff5f-4254-9d77-beb30e07cd31"
+  },
+  {
+    "TimeGenerated": "2026-11-03T13:00:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "a334acd7-8eb9-476e-8604-5b90dde798c3",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "af463c57-0cd0-462d-b703-889b139b9042"
+  },
+  {
+    "TimeGenerated": "2026-11-03T13:06:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "8ecc087a-0355-4b0a-870f-fb50b18b9b3a",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "f1713ad3-71f4-4712-89b4-352c93aeac5f"
+  },
+  {
+    "TimeGenerated": "2026-11-03T13:27:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "aa6f2e6e-2814-4438-bd43-a1ecff88c7b8",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "64e5af11-29ad-4574-92fa-88d36722e20d"
+  },
+  {
+    "TimeGenerated": "2026-11-03T13:37:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "c7e7929e-47b9-483d-b453-0dab5820fe25",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "23cd905f-6bdd-4062-ab12-ff750327d410"
+  },
+  {
+    "TimeGenerated": "2026-11-03T13:59:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "30f70583-8f2d-474d-b4d8-8068b8a3a4c5",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "b26a64b8-f41f-4a2d-8cfe-6d8299046c3e"
+  },
+  {
+    "TimeGenerated": "2026-11-03T14:00:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "244c5713-9519-419c-acb1-d706fab7fa8d",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "37c93e64-6eac-4b97-99c0-08436ae0fc3c"
+  },
+  {
+    "TimeGenerated": "2026-11-03T14:00:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "a334acd7-8eb9-476e-8604-5b90dde798c3",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "f3a9ca10-138b-4a59-b86f-f4ed32cb4420"
+  },
+  {
+    "TimeGenerated": "2026-11-03T14:06:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "8ecc087a-0355-4b0a-870f-fb50b18b9b3a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "4b144c0f-e84e-4d17-810d-75831e7b2e63"
+  },
+  {
+    "TimeGenerated": "2026-11-03T14:08:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "6a2b857b-bf76-4984-8cf1-b2cf4e742074",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "755f808b-f431-46fe-9b22-e04519fbf8fd"
+  },
+  {
+    "TimeGenerated": "2026-11-03T14:27:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "aa6f2e6e-2814-4438-bd43-a1ecff88c7b8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "406aadf4-735a-44c4-9520-828832a0f993"
+  },
+  {
+    "TimeGenerated": "2026-11-03T14:28:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "5f3a6a67-adc8-4e2d-a2c4-7df34f0ae2ad",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "e18d24bd-48c0-47c0-ac78-a4e9e556ea00"
+  },
+  {
+    "TimeGenerated": "2026-11-03T14:37:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "c7e7929e-47b9-483d-b453-0dab5820fe25",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "72d195a0-5cd1-41d5-8102-ec3b932f3699"
+  },
+  {
+    "TimeGenerated": "2026-11-03T14:59:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "30f70583-8f2d-474d-b4d8-8068b8a3a4c5",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "2c0f4f78-f74a-4dba-9eca-65974690a783"
+  },
+  {
+    "TimeGenerated": "2026-11-03T15:00:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "244c5713-9519-419c-acb1-d706fab7fa8d",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "df8aa8c1-b814-44b5-97cc-bc02b3cbf32f"
+  },
+  {
+    "TimeGenerated": "2026-11-03T15:00:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "a334acd7-8eb9-476e-8604-5b90dde798c3",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "c017f0be-4f73-4ef7-89c0-358a2b40115e"
+  },
+  {
+    "TimeGenerated": "2026-11-03T15:06:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "8ecc087a-0355-4b0a-870f-fb50b18b9b3a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "0985defd-5aa4-4614-858d-cdb5ddb296eb"
+  },
+  {
+    "TimeGenerated": "2026-11-03T15:08:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "6a2b857b-bf76-4984-8cf1-b2cf4e742074",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "fe304c53-c6d1-4459-8413-c57f4b911a5b"
+  },
+  {
+    "TimeGenerated": "2026-11-03T15:27:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "aa6f2e6e-2814-4438-bd43-a1ecff88c7b8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "a76d084b-14ae-49b9-9f3f-09241bdcbd9a"
+  },
+  {
+    "TimeGenerated": "2026-11-03T15:28:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "5f3a6a67-adc8-4e2d-a2c4-7df34f0ae2ad",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "37ccbc97-6cf0-4a49-82b2-5adf44389460"
+  },
+  {
+    "TimeGenerated": "2026-11-03T15:37:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "c7e7929e-47b9-483d-b453-0dab5820fe25",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "35d8e000-4f42-45d3-a025-eb8bf01c2325"
+  },
+  {
+    "TimeGenerated": "2026-11-03T15:59:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "30f70583-8f2d-474d-b4d8-8068b8a3a4c5",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "64791f9b-7a0d-4ad4-b5be-f015c0daa05f"
+  },
+  {
+    "TimeGenerated": "2026-11-03T16:00:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "244c5713-9519-419c-acb1-d706fab7fa8d",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "50027f8b-322c-44ec-b699-b8e095adf6b5"
+  },
+  {
+    "TimeGenerated": "2026-11-03T16:08:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "6a2b857b-bf76-4984-8cf1-b2cf4e742074",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "d57724e6-8239-4543-8edf-0bcf92d8bfa7"
+  },
+  {
+    "TimeGenerated": "2026-11-03T16:27:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "aa6f2e6e-2814-4438-bd43-a1ecff88c7b8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "829de22d-7c37-490c-a9a1-9447479056fc"
+  },
+  {
+    "TimeGenerated": "2026-11-03T16:28:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "5f3a6a67-adc8-4e2d-a2c4-7df34f0ae2ad",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "296aebb7-a2d4-4c4d-b95a-bf02b3c12c58"
+  },
+  {
+    "TimeGenerated": "2026-11-03T16:37:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "c7e7929e-47b9-483d-b453-0dab5820fe25",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "49fbee54-0469-411d-9973-872ef48eae11"
+  },
+  {
+    "TimeGenerated": "2026-11-03T17:00:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "244c5713-9519-419c-acb1-d706fab7fa8d",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "19a40e8b-60ab-4efe-83d1-a31fbcdf3a26"
+  },
+  {
+    "TimeGenerated": "2026-11-03T17:08:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "6a2b857b-bf76-4984-8cf1-b2cf4e742074",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "ea833b9b-553a-4f46-b84f-37675f799f9d"
+  },
+  {
+    "TimeGenerated": "2026-11-03T17:27:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "aa6f2e6e-2814-4438-bd43-a1ecff88c7b8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "04f05c22-dd71-4234-abcf-297e540de2d3"
+  },
+  {
+    "TimeGenerated": "2026-11-03T17:28:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "5f3a6a67-adc8-4e2d-a2c4-7df34f0ae2ad",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "da9a48ab-fcee-477c-a097-843b23dd44ab"
+  },
+  {
+    "TimeGenerated": "2026-11-03T18:00:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "244c5713-9519-419c-acb1-d706fab7fa8d",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "219acc90-e945-467b-a80c-57f40a710ee5"
+  },
+  {
+    "TimeGenerated": "2026-11-03T18:27:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "aa6f2e6e-2814-4438-bd43-a1ecff88c7b8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "48a9bfca-c111-4592-ad96-928f1bd7db69"
+  },
+  {
+    "TimeGenerated": "2026-11-03T18:28:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "5f3a6a67-adc8-4e2d-a2c4-7df34f0ae2ad",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "18c0b425-8b08-42bd-a68a-37246f4d25f3"
+  },
+  {
+    "TimeGenerated": "2026-11-04T13:07:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "d2dcf2b4-b1d0-493e-8733-1d774f6789f2",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "8d7577ea-c93b-4953-bf81-f86ea8ea0997"
+  },
+  {
+    "TimeGenerated": "2026-11-04T13:31:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "609101fa-5ec3-4b34-8cf5-3547b5a2b466",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "8f630e30-945e-4023-8bdb-596159c24205"
+  },
+  {
+    "TimeGenerated": "2026-11-04T13:36:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "67a09159-946a-406f-8269-71852f6e3b2f",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "5d951fc4-6db6-419f-8a2f-a9397d6c574d"
+  },
+  {
+    "TimeGenerated": "2026-11-04T13:56:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "28164fa4-2477-46e1-a9a9-1010ae7b54fa",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "2d5765d2-dd6a-46bb-9057-fbf1a8a9dbec"
+  },
+  {
+    "TimeGenerated": "2026-11-04T14:07:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "d2dcf2b4-b1d0-493e-8733-1d774f6789f2",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "7a21d6b5-f505-4e96-be9e-9b1831b62bb6"
+  },
+  {
+    "TimeGenerated": "2026-11-04T14:09:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "20f100ed-238d-44be-8cd2-61bbcb38e5d4",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "13577a5f-e404-435f-a1ed-bb0f997c33f1"
+  },
+  {
+    "TimeGenerated": "2026-11-04T14:09:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "489a071f-a726-4689-a5bc-c2c623e698d1",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "51861419-3188-4750-9ad9-c4972082c536"
+  },
+  {
+    "TimeGenerated": "2026-11-04T14:12:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "2df2fc93-9a2c-43b0-87d0-af6c5ebfec04",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "02668cf8-2ebc-43a7-a41b-5d7bc3b281de"
+  },
+  {
+    "TimeGenerated": "2026-11-04T14:25:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "054d84af-bb96-4717-bff7-3721f1bbaa87",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "b20c4265-ec41-4dab-8458-d0c7a344cd79"
+  },
+  {
+    "TimeGenerated": "2026-11-04T14:31:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "609101fa-5ec3-4b34-8cf5-3547b5a2b466",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "73c716b9-a18b-4c73-82cc-79332c02e2ff"
+  },
+  {
+    "TimeGenerated": "2026-11-04T14:36:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "67a09159-946a-406f-8269-71852f6e3b2f",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "cbc0de04-3159-4fcf-8a46-9d25bd80355c"
+  },
+  {
+    "TimeGenerated": "2026-11-04T14:56:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "28164fa4-2477-46e1-a9a9-1010ae7b54fa",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "0a03b9d1-0d05-4c80-9f9f-0b5a7b2ca3a5"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:07:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "d2dcf2b4-b1d0-493e-8733-1d774f6789f2",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "ffb5440d-49b9-47af-a521-603bffa5cc3b"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:09:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "20f100ed-238d-44be-8cd2-61bbcb38e5d4",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "3dbe3e54-d944-4bd6-a21d-f9b97ab30125"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:09:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "489a071f-a726-4689-a5bc-c2c623e698d1",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "b73f4704-092b-4a52-a7d1-b320f54bc4a6"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:12:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "2df2fc93-9a2c-43b0-87d0-af6c5ebfec04",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "f03b5aed-61f5-4232-8596-c4a7847597a2"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:14:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "203.0.113.45",
+    "AutonomousSystemNumber": 64666,
+    "Location": {
+      "city": "Amsterdam",
+      "countryOrRegion": "NL"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "98a197b2-af45-4dcc-9a84-ad917bb78843",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "dfa45a6c-ec43-465c-8439-ec76730dd46c"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:20:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "192.0.2.77",
+    "AutonomousSystemNumber": 64777,
+    "Location": {
+      "city": "Amsterdam",
+      "countryOrRegion": "NL"
+    },
+    "UserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "98a197b2-af45-4dcc-9a84-ad917bb78843",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "790c013e-6e2f-4366-b5b8-a30e337f166e"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:25:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "054d84af-bb96-4717-bff7-3721f1bbaa87",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "6e3100be-3925-4e90-9ff7-7925e5333928"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:31:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "609101fa-5ec3-4b34-8cf5-3547b5a2b466",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "a49bab22-ad5b-401a-8e70-b74b0a200f08"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:36:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "67a09159-946a-406f-8269-71852f6e3b2f",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "cd007f64-dcaf-4838-a8f7-1309a7b6f2a0"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:56:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "28164fa4-2477-46e1-a9a9-1010ae7b54fa",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "2465cf10-5155-4286-89bf-0a786644769e"
+  },
+  {
+    "TimeGenerated": "2026-11-04T16:07:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "d2dcf2b4-b1d0-493e-8733-1d774f6789f2",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "67470523-de7e-4e73-85e9-b8a0bc8f8b87"
+  },
+  {
+    "TimeGenerated": "2026-11-04T16:09:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "20f100ed-238d-44be-8cd2-61bbcb38e5d4",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "7df6cbee-f962-4f7e-a4b6-fdcbe8f0f5bc"
+  },
+  {
+    "TimeGenerated": "2026-11-04T16:09:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "489a071f-a726-4689-a5bc-c2c623e698d1",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "c5b104cc-b642-4638-a5ff-6aca0d42fac8"
+  },
+  {
+    "TimeGenerated": "2026-11-04T16:12:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "2df2fc93-9a2c-43b0-87d0-af6c5ebfec04",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "a196d3dd-b207-4aa4-b8a5-d13163fefb68"
+  },
+  {
+    "TimeGenerated": "2026-11-04T16:25:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "054d84af-bb96-4717-bff7-3721f1bbaa87",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "bf4328d4-2135-48d3-8772-535515f76478"
+  },
+  {
+    "TimeGenerated": "2026-11-04T16:31:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "609101fa-5ec3-4b34-8cf5-3547b5a2b466",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "c548dd37-7656-4384-9e93-b212bd9e43c4"
+  },
+  {
+    "TimeGenerated": "2026-11-04T16:36:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "67a09159-946a-406f-8269-71852f6e3b2f",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "dc2d5168-cb1d-4779-a6de-e930deb4f2e9"
+  },
+  {
+    "TimeGenerated": "2026-11-04T17:07:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "d2dcf2b4-b1d0-493e-8733-1d774f6789f2",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "679d9cc7-449d-48b4-8ab1-bef2a25af594"
+  },
+  {
+    "TimeGenerated": "2026-11-04T17:09:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "20f100ed-238d-44be-8cd2-61bbcb38e5d4",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "9c4b8452-7de9-4e9a-8bbb-39d0745c33d9"
+  },
+  {
+    "TimeGenerated": "2026-11-04T17:25:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "054d84af-bb96-4717-bff7-3721f1bbaa87",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "85892c1b-2163-4a72-810c-3009e5f8718d"
+  },
+  {
+    "TimeGenerated": "2026-11-04T17:31:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "609101fa-5ec3-4b34-8cf5-3547b5a2b466",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "df986a91-0647-4bac-9665-bc42b60f4df1"
+  },
+  {
+    "TimeGenerated": "2026-11-04T17:36:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "67a09159-946a-406f-8269-71852f6e3b2f",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "4fb0b0cf-6cb5-49cf-abe3-755e70ca2866"
+  },
+  {
+    "TimeGenerated": "2026-11-04T18:07:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "d2dcf2b4-b1d0-493e-8733-1d774f6789f2",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "4fa1e6c6-68d3-419b-aaa2-89dc0646f405"
+  },
+  {
+    "TimeGenerated": "2026-11-04T18:09:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "20f100ed-238d-44be-8cd2-61bbcb38e5d4",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "81bb1fb9-409b-45a6-8fc0-a642e8fbba6a"
+  },
+  {
+    "TimeGenerated": "2026-11-04T18:25:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "054d84af-bb96-4717-bff7-3721f1bbaa87",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "771b4037-2e98-4023-a89f-d2a658ea8028"
+  },
+  {
+    "TimeGenerated": "2026-11-04T18:31:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "609101fa-5ec3-4b34-8cf5-3547b5a2b466",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "97279597-3bf3-42c6-913a-81d6c16dab93"
+  },
+  {
+    "TimeGenerated": "2026-11-04T19:25:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "054d84af-bb96-4717-bff7-3721f1bbaa87",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "591f91a3-e7fa-45be-b2f1-3376090651e7"
+  },
+  {
+    "TimeGenerated": "2026-11-05T13:14:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "2ff5c932-0830-4acf-a6a4-c07fc1f20790",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "fe1d18cd-4a21-4232-acec-4ddb688381a6"
+  },
+  {
+    "TimeGenerated": "2026-11-05T13:21:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "ad2bca4d-985f-4478-b0e6-720747aca8fc",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "fd558ee2-9cc4-4258-b30e-6bc6ff247851"
+  },
+  {
+    "TimeGenerated": "2026-11-05T13:26:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "51aa3018-e232-48ff-ac48-6dd917c9978a",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "8d8d9cca-6947-4954-8bf8-de0a530695a6"
+  },
+  {
+    "TimeGenerated": "2026-11-05T13:29:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "67c78332-fecb-4afd-92ad-250a651e021e",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "f6c9f159-29cc-4f5b-8f56-cb1c7714d7a7"
+  },
+  {
+    "TimeGenerated": "2026-11-05T13:42:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "6b0d803c-885e-47f4-a108-5e2c32e360d2",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "73c224ea-13ba-40f1-9d2c-f6d415a99b22"
+  },
+  {
+    "TimeGenerated": "2026-11-05T13:52:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "eb4896a9-3c88-4d2c-bcd3-86196bff271c",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "963416ed-07a6-41f4-8e8d-466697c50806"
+  },
+  {
+    "TimeGenerated": "2026-11-05T14:05:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "ac69057e-9515-4a7e-a456-2d0b532089d5",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "3a2b4b47-ed4a-4480-acfe-107e00d3e121"
+  },
+  {
+    "TimeGenerated": "2026-11-05T14:14:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "2ff5c932-0830-4acf-a6a4-c07fc1f20790",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "cdee89b1-c1d4-49ab-bba9-1527bfe3cd3e"
+  },
+  {
+    "TimeGenerated": "2026-11-05T14:18:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "f2c4415c-7705-45ca-ac92-43af07a6b61a",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "9e21a3f6-0a22-493d-a94d-97bf6e383c01"
+  },
+  {
+    "TimeGenerated": "2026-11-05T14:21:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "ad2bca4d-985f-4478-b0e6-720747aca8fc",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "2665a084-ace2-43d3-82ed-d7ead0517d46"
+  },
+  {
+    "TimeGenerated": "2026-11-05T14:26:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "51aa3018-e232-48ff-ac48-6dd917c9978a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "196632d3-cb1b-4f35-9945-14291dab01f8"
+  },
+  {
+    "TimeGenerated": "2026-11-05T14:29:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "67c78332-fecb-4afd-92ad-250a651e021e",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "19e7f29e-a4b4-41ec-845e-51b4943665a6"
+  },
+  {
+    "TimeGenerated": "2026-11-05T14:42:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "6b0d803c-885e-47f4-a108-5e2c32e360d2",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "7a31d0c8-9890-4d0a-a6e0-bdd1e66c9404"
+  },
+  {
+    "TimeGenerated": "2026-11-05T14:52:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "eb4896a9-3c88-4d2c-bcd3-86196bff271c",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "feb9e7cf-4011-4fa3-98e8-1726ebc8cac1"
+  },
+  {
+    "TimeGenerated": "2026-11-05T15:05:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "ac69057e-9515-4a7e-a456-2d0b532089d5",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "9ea4a11f-5ac5-495c-b056-4d45c169c46a"
+  },
+  {
+    "TimeGenerated": "2026-11-05T15:14:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "2ff5c932-0830-4acf-a6a4-c07fc1f20790",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "815e461d-58a9-422a-af74-b84e96ea7245"
+  },
+  {
+    "TimeGenerated": "2026-11-05T15:18:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "f2c4415c-7705-45ca-ac92-43af07a6b61a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "55c57b5f-834a-402c-ba99-04adffb55327"
+  },
+  {
+    "TimeGenerated": "2026-11-05T15:21:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "ad2bca4d-985f-4478-b0e6-720747aca8fc",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "b889486e-3182-4cdb-9369-923ce12ee017"
+  },
+  {
+    "TimeGenerated": "2026-11-05T15:26:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "51aa3018-e232-48ff-ac48-6dd917c9978a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "af7dd2b4-88a0-4028-be9a-760343a0d928"
+  },
+  {
+    "TimeGenerated": "2026-11-05T15:29:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "67c78332-fecb-4afd-92ad-250a651e021e",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "f19f7875-1a5e-45c9-8a61-7c68e0b96cfe"
+  },
+  {
+    "TimeGenerated": "2026-11-05T15:42:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "6b0d803c-885e-47f4-a108-5e2c32e360d2",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "d5026f41-61ba-4a65-891b-7cea2f6d6fa7"
+  },
+  {
+    "TimeGenerated": "2026-11-05T15:52:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "eb4896a9-3c88-4d2c-bcd3-86196bff271c",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "3404b00b-2fa7-45cb-b231-524c9f2a650c"
+  },
+  {
+    "TimeGenerated": "2026-11-05T16:05:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "ac69057e-9515-4a7e-a456-2d0b532089d5",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "bd6c78e8-8608-4d2a-9edd-a48c632f26e6"
+  },
+  {
+    "TimeGenerated": "2026-11-05T16:14:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "2ff5c932-0830-4acf-a6a4-c07fc1f20790",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "1b5acfad-a744-4a2e-bbbc-ebc27ce00912"
+  },
+  {
+    "TimeGenerated": "2026-11-05T16:18:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "f2c4415c-7705-45ca-ac92-43af07a6b61a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "e19a3183-33b3-48f0-85bc-44b87ed5c059"
+  },
+  {
+    "TimeGenerated": "2026-11-05T16:21:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "ad2bca4d-985f-4478-b0e6-720747aca8fc",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "9073d246-6d5c-48a3-ac17-a93c1131f2b1"
+  },
+  {
+    "TimeGenerated": "2026-11-05T16:52:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "eb4896a9-3c88-4d2c-bcd3-86196bff271c",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "6efd1900-5956-40ef-a420-18755543baf8"
+  },
+  {
+    "TimeGenerated": "2026-11-05T17:05:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "ac69057e-9515-4a7e-a456-2d0b532089d5",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "7974c8d2-7fa7-4f3a-a491-276b1736aac5"
+  },
+  {
+    "TimeGenerated": "2026-11-05T17:18:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "f2c4415c-7705-45ca-ac92-43af07a6b61a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "0cff219f-ce46-4ccc-aa81-f8830a0f7c9e"
+  },
+  {
+    "TimeGenerated": "2026-11-05T17:21:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "ad2bca4d-985f-4478-b0e6-720747aca8fc",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "4430e1c2-1833-44dd-85d7-8e88b635be4b"
+  },
+  {
+    "TimeGenerated": "2026-11-05T17:52:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "eb4896a9-3c88-4d2c-bcd3-86196bff271c",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "6adb3168-e7c2-46bd-b632-1f0034731207"
+  },
+  {
+    "TimeGenerated": "2026-11-05T18:05:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "ac69057e-9515-4a7e-a456-2d0b532089d5",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "3addbb4f-d281-42fd-8fae-7adfa4f7117e"
+  },
+  {
+    "TimeGenerated": "2026-11-05T18:18:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "f2c4415c-7705-45ca-ac92-43af07a6b61a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "1efda712-5a5d-48a9-af52-aa8417827e54"
+  },
+  {
+    "TimeGenerated": "2026-11-05T19:05:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "ac69057e-9515-4a7e-a456-2d0b532089d5",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "aed9aa8f-7668-4e0f-8f3c-fe1958cfacc4"
+  },
+  {
+    "TimeGenerated": "2026-11-05T19:18:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "f2c4415c-7705-45ca-ac92-43af07a6b61a",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "c8f0e1a7-0cd3-4413-a199-8b335c768a69"
+  },
+  {
+    "TimeGenerated": "2026-11-06T13:03:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "1936b62d-7442-4b61-8cff-b0dfe967bed9",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "2af1930e-c13c-4e44-ad66-de74dc56d729"
+  },
+  {
+    "TimeGenerated": "2026-11-06T13:09:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "adb5375d-703a-48de-804a-e6782f27ba1e",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "eba3934b-465e-430b-b2e3-b180729f8c92"
+  },
+  {
+    "TimeGenerated": "2026-11-06T13:30:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "296c6810-bcd5-4547-a39a-c0f5267ce614",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "c9ecfc92-1011-440b-9a52-0f718c5a4032"
+  },
+  {
+    "TimeGenerated": "2026-11-06T13:32:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "04553e99-ee65-419c-94f8-55e6008c38e8",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "5d55c7e7-3ca9-4e9d-b895-ee924e64f1f4"
+  },
+  {
+    "TimeGenerated": "2026-11-06T13:40:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "7d9fd171-8c33-484c-96ca-bd6f63856134",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "4e693e07-6ab2-4632-94fe-e8d42eb2e563"
+  },
+  {
+    "TimeGenerated": "2026-11-06T14:02:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "9905d8ba-e89d-4d20-be11-0ed35eaf2b81",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "30e6bbf8-03be-4e81-acbc-bbb15ad37142"
+  },
+  {
+    "TimeGenerated": "2026-11-06T14:03:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "1936b62d-7442-4b61-8cff-b0dfe967bed9",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "546d1ccd-2f77-494e-b6af-266df43ba778"
+  },
+  {
+    "TimeGenerated": "2026-11-06T14:06:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "2effb869-52d2-4e9e-aa17-d064a94f71c9",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "714ff70a-7922-4043-b30b-0d92737c69d9"
+  },
+  {
+    "TimeGenerated": "2026-11-06T14:09:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "adb5375d-703a-48de-804a-e6782f27ba1e",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "86d72a17-73f2-4aff-9314-e713178a4091"
+  },
+  {
+    "TimeGenerated": "2026-11-06T14:09:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "OfficeHome",
+    "SessionId": "42e4334e-5f2f-4c27-a1a8-53619eaf84f4",
+    "AuthenticationRequirement": "multiFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "f873cfe6-4c60-41b4-86ef-6d114ae57cb8"
+  },
+  {
+    "TimeGenerated": "2026-11-06T14:30:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "296c6810-bcd5-4547-a39a-c0f5267ce614",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "1b7dfc5b-3b4e-4c3c-8085-f75066409dfe"
+  },
+  {
+    "TimeGenerated": "2026-11-06T14:32:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "04553e99-ee65-419c-94f8-55e6008c38e8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "5f19ce9a-30c4-4bfc-94ea-37e34512d36d"
+  },
+  {
+    "TimeGenerated": "2026-11-06T14:40:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "7d9fd171-8c33-484c-96ca-bd6f63856134",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "e506e136-56cc-4854-8f24-13f83f188ccd"
+  },
+  {
+    "TimeGenerated": "2026-11-06T15:02:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "9905d8ba-e89d-4d20-be11-0ed35eaf2b81",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "19f796da-d681-40dd-93df-da00ff70cfec"
+  },
+  {
+    "TimeGenerated": "2026-11-06T15:03:00Z",
+    "UserPrincipalName": "grace@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "1936b62d-7442-4b61-8cff-b0dfe967bed9",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "f789ab4c-83f4-4c66-9753-f2afc7e1590f"
+  },
+  {
+    "TimeGenerated": "2026-11-06T15:06:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "2effb869-52d2-4e9e-aa17-d064a94f71c9",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "7536f57f-a202-463b-983d-3a68c86d045a"
+  },
+  {
+    "TimeGenerated": "2026-11-06T15:09:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "adb5375d-703a-48de-804a-e6782f27ba1e",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "6a620175-ad5e-47fb-8bc0-97c845c93ad6"
+  },
+  {
+    "TimeGenerated": "2026-11-06T15:09:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "42e4334e-5f2f-4c27-a1a8-53619eaf84f4",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "1edf5243-ec91-40db-ad25-2bbc5751ea27"
+  },
+  {
+    "TimeGenerated": "2026-11-06T15:30:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "296c6810-bcd5-4547-a39a-c0f5267ce614",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "1afc8dca-a308-4911-9f6f-4e7467925e03"
+  },
+  {
+    "TimeGenerated": "2026-11-06T15:32:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "04553e99-ee65-419c-94f8-55e6008c38e8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "510e84dc-7106-47bd-a44c-71bc5f2139fe"
+  },
+  {
+    "TimeGenerated": "2026-11-06T15:40:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "7d9fd171-8c33-484c-96ca-bd6f63856134",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "bebd5238-f805-43c0-8c4e-94a8d2d409ef"
+  },
+  {
+    "TimeGenerated": "2026-11-06T16:02:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "9905d8ba-e89d-4d20-be11-0ed35eaf2b81",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "01ef3966-6e6c-4911-ac40-a5e98ff6f2fd"
+  },
+  {
+    "TimeGenerated": "2026-11-06T16:06:00Z",
+    "UserPrincipalName": "bob@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "2effb869-52d2-4e9e-aa17-d064a94f71c9",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "c539a90c-cb07-4291-aa96-182ae33dff4f"
+  },
+  {
+    "TimeGenerated": "2026-11-06T16:09:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "adb5375d-703a-48de-804a-e6782f27ba1e",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "9d49269f-ee15-4622-85ab-e519b54850b0"
+  },
+  {
+    "TimeGenerated": "2026-11-06T16:09:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "42e4334e-5f2f-4c27-a1a8-53619eaf84f4",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "465be81c-9da6-4029-b4c8-cdcb65d70915"
+  },
+  {
+    "TimeGenerated": "2026-11-06T16:30:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "296c6810-bcd5-4547-a39a-c0f5267ce614",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "12b5393b-fa66-4fa9-8e34-50058c00e06c"
+  },
+  {
+    "TimeGenerated": "2026-11-06T16:32:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "04553e99-ee65-419c-94f8-55e6008c38e8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "9d771987-630e-4c84-8c9e-c73601061ef6"
+  },
+  {
+    "TimeGenerated": "2026-11-06T16:40:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "7d9fd171-8c33-484c-96ca-bd6f63856134",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "05343e03-bc50-4cff-9a31-63dfc10eb2a0"
+  },
+  {
+    "TimeGenerated": "2026-11-06T17:02:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "9905d8ba-e89d-4d20-be11-0ed35eaf2b81",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "54e653db-fc57-4b59-b4e2-e571d629ca03"
+  },
+  {
+    "TimeGenerated": "2026-11-06T17:09:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "adb5375d-703a-48de-804a-e6782f27ba1e",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "c0419b91-2896-43dd-9b52-848b811206ea"
+  },
+  {
+    "TimeGenerated": "2026-11-06T17:09:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "42e4334e-5f2f-4c27-a1a8-53619eaf84f4",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "a0f1243d-3736-4148-946b-1d76ecabec59"
+  },
+  {
+    "TimeGenerated": "2026-11-06T17:30:00Z",
+    "UserPrincipalName": "dave@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "296c6810-bcd5-4547-a39a-c0f5267ce614",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "a14e8b57-456a-43f2-96ba-163ebcb2f4cc"
+  },
+  {
+    "TimeGenerated": "2026-11-06T17:32:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Outlook",
+    "SessionId": "04553e99-ee65-419c-94f8-55e6008c38e8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "3cf0ece3-db6e-4d86-9619-1cf66644442a"
+  },
+  {
+    "TimeGenerated": "2026-11-06T17:40:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "7d9fd171-8c33-484c-96ca-bd6f63856134",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "514d979e-4173-43a0-966e-c97c4f250559"
+  },
+  {
+    "TimeGenerated": "2026-11-06T18:02:00Z",
+    "UserPrincipalName": "frank@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "9905d8ba-e89d-4d20-be11-0ed35eaf2b81",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "f97c5526-6bc7-45c5-aba7-9a133e101bd2"
+  },
+  {
+    "TimeGenerated": "2026-11-06T18:09:00Z",
+    "UserPrincipalName": "alice@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "adb5375d-703a-48de-804a-e6782f27ba1e",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "0f4f6d02-d4b3-40e9-932a-bfdbb5e6140b"
+  },
+  {
+    "TimeGenerated": "2026-11-06T18:09:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "42e4334e-5f2f-4c27-a1a8-53619eaf84f4",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "90e81988-41c5-49bb-af3b-7c85505ae9b1"
+  },
+  {
+    "TimeGenerated": "2026-11-06T18:32:00Z",
+    "UserPrincipalName": "heidi@contoso-demo.com",
+    "IPAddress": "198.51.100.10",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "04553e99-ee65-419c-94f8-55e6008c38e8",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "6b8e45e8-15a0-404a-b329-23d0fe3e1a78"
+  },
+  {
+    "TimeGenerated": "2026-11-06T18:40:00Z",
+    "UserPrincipalName": "carol@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "Teams",
+    "SessionId": "7d9fd171-8c33-484c-96ca-bd6f63856134",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "7184b80f-3b11-4819-aabe-2f5759d3c895"
+  },
+  {
+    "TimeGenerated": "2026-11-06T19:09:00Z",
+    "UserPrincipalName": "erin@contoso-demo.com",
+    "IPAddress": "198.51.100.11",
+    "AutonomousSystemNumber": 64500,
+    "Location": {
+      "city": "Toronto",
+      "countryOrRegion": "CA"
+    },
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "AppDisplayName": "SharePoint",
+    "SessionId": "42e4334e-5f2f-4c27-a1a8-53619eaf84f4",
+    "AuthenticationRequirement": "singleFactorAuthentication",
+    "ResultType": 0,
+    "CorrelationId": "09d37cd9-29fa-4266-8521-90c0a75f52c9"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "TimeGenerated": "2026-11-04T14:00:00Z",
+    "OperationName": "User registered security info",
+    "Category": "UserManagement",
+    "InitiatedBy": {
+      "user": {
+        "userPrincipalName": "erin@contoso-demo.com",
+        "ipAddress": "198.51.100.11"
+      }
+    },
+    "TargetResources": [
+      {
+        "userPrincipalName": "erin@contoso-demo.com"
+      }
+    ],
+    "Result": "success"
+  },
+  {
+    "TimeGenerated": "2026-11-04T15:34:00Z",
+    "OperationName": "User registered security info",
+    "Category": "UserManagement",
+    "InitiatedBy": {
+      "user": {
+        "userPrincipalName": "carol@contoso-demo.com",
+        "ipAddress": "192.0.2.77"
+      }
+    },
+    "TargetResources": [
+      {
+        "userPrincipalName": "carol@contoso-demo.com"
+      }
+    ],
+    "AdditionalDetails": [
+      {
+        "key": "Method",
+        "value": "Authenticator app"
+      }
+    ],
+    "Result": "success"
+  }
+]
